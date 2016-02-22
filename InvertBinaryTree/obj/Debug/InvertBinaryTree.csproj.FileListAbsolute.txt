@@ -1,0 +1,6 @@
+C:\Users\chenxin\Documents\GitHub\InvertBinaryTree\InvertBinaryTree\bin\Debug\InvertBinaryTree.exe.config
+C:\Users\chenxin\Documents\GitHub\InvertBinaryTree\InvertBinaryTree\bin\Debug\InvertBinaryTree.exe
+C:\Users\chenxin\Documents\GitHub\InvertBinaryTree\InvertBinaryTree\bin\Debug\InvertBinaryTree.pdb
+C:\Users\chenxin\Documents\GitHub\InvertBinaryTree\InvertBinaryTree\obj\Debug\InvertBinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\chenxin\Documents\GitHub\InvertBinaryTree\InvertBinaryTree\obj\Debug\InvertBinaryTree.exe
+C:\Users\chenxin\Documents\GitHub\InvertBinaryTree\InvertBinaryTree\obj\Debug\InvertBinaryTree.pdb
